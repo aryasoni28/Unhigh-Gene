@@ -34,5 +34,5 @@ Unhigh-Gene is developed by a team of passionate individuals dedicated to levera
 
 ## Contact Us
 
-For inquiries or feedback about Unhigh-Gene, please contact us at [supriths4804@gmail.com](mailto:supriths4804@gmail.com). We value your input and are committed to continuously improving our platform to better serve the needs of our users.
+For inquiries or feedback about Unhigh-Gene, please contact us at [aryarsoni2020@gmail.com](mailto:aryarsoni2020@gmail.com). We value your input and are committed to continuously improving our platform to better serve the needs of our users.
 
